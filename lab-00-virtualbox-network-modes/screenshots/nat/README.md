@@ -1,4 +1,4 @@
-# Evidence: Mode 1 — Standard NAT
+# Evidence: Mode 1 - Standard NAT
 
 This folder contains verification screenshots validating VirtualBox's default **NAT** mode behavior.
 
