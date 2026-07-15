@@ -1,4 +1,4 @@
-# Evidence: Mode 5 — Internal Network
+# Evidence: Mode 5 - Internal Network
 
 This folder contains verification screenshots validating the Internal Network mode behavior.
 
