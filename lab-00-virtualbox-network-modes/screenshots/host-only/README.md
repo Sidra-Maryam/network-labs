@@ -1,4 +1,4 @@
-# Evidence: Mode 4 — Host-Only Adapter
+# Evidence: Mode 4 - Host-Only Adapter
 
 This folder contains verification screenshots validating the Host-Only Adapter mode behavior.
 
